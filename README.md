@@ -1,2 +1,2 @@
 # MECH-ENG-2A03
-Design Communication
+My course work for MECH ENG 2A03: Design Communication
